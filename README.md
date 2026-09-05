@@ -1,6 +1,6 @@
-# Hand-Written UART on Cyclone III FPGA
+UART on Cyclone III FPGA
 
-A UART (Universal Asynchronous Receiver/Transmitter) built from scratch in Verilog and verified on a Cyclone III FPGA. This is a resume project: the protocol, baud-rate generation, transmit path, and receive path are written by hand rather than taken from a vendor IP core.
+A UART (Universal Asynchronous Receiver/Transmitter) built from scratch in Verilog and verified on a Cyclone III FPGA. Includes the protocol, baud-rate generation, transmit path, receive path, and metastability prevention.
 
 ## Goal
 
