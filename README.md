@@ -30,4 +30,4 @@ Early RTL sketch in `UART.v`. Next steps: finish synthesizable TX/RX, add a test
 
 ## License
 
-Personal / portfolio use unless otherwise noted.
+MIT. See `LICENSE`.
