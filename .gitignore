@@ -1,0 +1,28 @@
+# Quartus / Intel FPGA build products
+db/
+incremental_db/
+output_files/
+simulation/
+greybox_tmp/
+*.rpt
+*.summary
+*.smsg
+*.done
+*.jdi
+*.pin
+*.qws
+*.sof
+*.pof
+*.jic
+*.map
+*.fit.*
+*.sta.*
+*.qdf
+
+# Editor / OS
+*.bak
+*~
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
